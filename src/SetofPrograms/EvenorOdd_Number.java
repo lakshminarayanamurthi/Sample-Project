@@ -8,9 +8,13 @@ public class EvenorOdd_Number {
 			
 			System.out.println("Number is Even "+ num);
 	}
+		else if()
+		{
+			System.out.println("Else if condition");
+		}
 		else
 		{
-			System.out.println("Number is odd "+ num);
+                       System.out.println("Number is odd "+ num);
 		}
 			
 	}
