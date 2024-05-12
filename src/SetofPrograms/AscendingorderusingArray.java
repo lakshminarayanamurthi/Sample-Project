@@ -8,6 +8,7 @@ public class AscendingorderusingArray {
 		 * Arrays.sort(array);
 		 * System.out.println("Sorting order is "+Arrays.toString(array));
 		 */
+		//Test
 		for(int i=0;i<array.length;i++) {
 			for(int j=i+0;j<array.length;j++) {
 				int temp=0;
